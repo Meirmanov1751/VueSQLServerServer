@@ -1,0 +1,7 @@
+README.md
+setup.py
+Fastapi.egg-info/PKG-INFO
+Fastapi.egg-info/SOURCES.txt
+Fastapi.egg-info/dependency_links.txt
+Fastapi.egg-info/top_level.txt
+app/main.py
